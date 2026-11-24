@@ -1,4 +1,4 @@
-// r1: one-line AI excuse for breaking production (96 chars) — first draft.
+// r1: one-line AI excuse for breaking production (96 chars) — revised: header clarified, entry line unchanged.
 import { mkdirSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
 
